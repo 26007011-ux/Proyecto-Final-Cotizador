@@ -1,0 +1,64 @@
+Algoritmo Paso a Paso
+Paso 1
+
+Solicitar el nombre del asegurado.
+
+Paso 2
+
+Solicitar la edad del asegurado.
+
+Paso 3
+
+Convertir la edad a número.
+
+Paso 4
+
+Verificar si es mayor o igual a 18 años.
+
+Si NO → terminar el programa.
+
+Si SÍ → continuar.
+
+Paso 5
+
+Solicitar si está casado.
+
+Paso 6
+
+Si está casado:
+
+Solicitar edad del cónyuge.
+
+Convertirla a número.
+
+Aplicar recargo según rango de edad.
+
+Paso 7
+
+Aplicar recargo según edad del asegurado.
+
+Paso 8
+
+Preguntar si tiene hijos.
+
+Paso 9
+
+Si tiene hijos:
+
+Pedir cantidad.
+
+Convertir a número.
+
+Calcular recargo (20% por cada hijo).
+
+Paso 10
+
+Sumar todos los recargos.
+
+Paso 11
+
+Calcular precio final.
+
+Paso 12
+
+Mostrar resultados.

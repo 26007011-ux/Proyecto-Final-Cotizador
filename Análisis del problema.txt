@@ -1,0 +1,29 @@
+Análisis del problema 
+
+La empresa TK-U realiza cotizaciones manuales, lo que genera pérdida de tiempo y limita la cantidad de cotizaciones diarias. El problema principal es que el proceso no está automatizado, causando atrasos y posible pérdida de clientes.
+
+El objetivo del proyecto es crear un cotizador automático que:
+
+Permita calcular el precio final del seguro.
+
+Aplique recargos según ciertas condiciones del asegurado.
+
+Casos que cambian el valor de la cotización:
+
+La edad del asegurado
+
+18–24 años → 10%
+
+25–49 años → 20%
+
+50 años o más → 30%
+
+Si es menor de edad → no se puede asegurar.
+
+Si está casado
+
+Si está casado, se aplica recargo según la edad del cónyuge usando los mismos rangos.
+
+Cantidad de hijos
+
+Por cada hijo se aplica 20% del precio base.
